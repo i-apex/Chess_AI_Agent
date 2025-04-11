@@ -1,0 +1,1307 @@
+Initial Board:
+
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+
+Move played: e2e4
+Evaluation: -2.6
+Move by: White
+Alpha-beta prunes this move: 322
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+
+Move played: a7a5
+Evaluation: -1.8
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♟ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+
+Move played: d1f3
+Evaluation: 0.1
+Move by: White
+Alpha-beta prunes this move: 509
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♟ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ♗ ♘ ♖
+
+Move played: e7e6
+Evaluation: -1.9000000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘ ⭘
+♟ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ♗ ♘ ♖
+
+Move played: f1b5
+Evaluation: 0.5999999999999999
+Move by: White
+Alpha-beta prunes this move: 983
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ♟ ♟
+⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: g7g6
+Evaluation: -2.6
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ♟ ⭘ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f3d3
+Evaluation: 0.7
+Move by: White
+Alpha-beta prunes this move: 994
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ♟ ⭘ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e6e5
+Evaluation: -2.7
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘
+♟ ♗ ⭘ ⭘ ♟ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d3d5
+Evaluation: 0.8
+Move by: White
+Alpha-beta prunes this move: 916
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘
+♟ ♗ ⭘ ♕ ♟ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: g8h6
+Evaluation: -2.6
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ⭘ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♞
+♟ ♗ ⭘ ♕ ♟ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d5e5
+Evaluation: 6.0
+Move by: White
+Alpha-beta prunes this move: 817
+♜ ♞ ♝ ♛ ♚ ♝ ⭘ ♜
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♞
+♟ ♗ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f8e7
+Evaluation: 1.2
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ⭘ ⭘ ♜
+⭘ ♟ ♟ ♟ ♝ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♞
+♟ ♗ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e5h8
+Evaluation: 9.1
+Move by: White
+Alpha-beta prunes this move: 737
+♜ ♞ ♝ ♛ ♚ ⭘ ⭘ ♕
+⭘ ♟ ♟ ♟ ♝ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♞
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e7f8
+Evaluation: 6.0
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ⭘ ♕
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♟
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♞
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h8h7
+Evaluation: 7.8
+Move by: White
+Alpha-beta prunes this move: 650
+♜ ♞ ♝ ♛ ♚ ♝ ⭘ ⭘
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♕
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♞
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h6f5
+Evaluation: 4.7
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ⭘ ⭘
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ♕
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h7g8
+Evaluation: 9.9
+Move by: White
+Alpha-beta prunes this move: 1055
+♜ ♞ ♝ ♛ ♚ ♝ ♕ ⭘
+⭘ ♟ ♟ ♟ ⭘ ♟ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f7f6
+Evaluation: 4.8999999999999995
+Move by: Black
+Alpha-beta prunes this move: 0
+♜ ♞ ♝ ♛ ♚ ♝ ♕ ⭘
+⭘ ♟ ♟ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ♙ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: b2b3
+Evaluation: 10.0
+Move by: White
+Alpha-beta prunes this move: 659
+♜ ♞ ♝ ♛ ♚ ♝ ♕ ⭘
+⭘ ♟ ♟ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: a8a7
+Evaluation: 5.3
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ♛ ♚ ♝ ♕ ⭘
+♜ ♟ ♟ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ♗ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: c1a3
+Evaluation: 10.100000000000001
+Move by: White
+Alpha-beta prunes this move: 676
+⭘ ♞ ♝ ♛ ♚ ♝ ♕ ⭘
+♜ ♟ ♟ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♟ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+♗ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f5h6
+Evaluation: 5.4
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ♛ ♚ ♝ ♕ ⭘
+♜ ♟ ♟ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♟ ♞
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+♗ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: g8g6
+Evaluation: 11.1
+Move by: White
+Alpha-beta prunes this move: 503
+⭘ ♞ ♝ ♛ ♚ ♝ ⭘ ⭘
+♜ ♟ ♟ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♕ ♞
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+♗ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h6f7
+Evaluation: 8.1
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ♛ ♚ ♝ ⭘ ⭘
+♜ ♟ ♟ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♕ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+♗ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: a3f8
+Evaluation: 11.1
+Move by: White
+Alpha-beta prunes this move: 665
+⭘ ♞ ♝ ♛ ♚ ♗ ⭘ ⭘
+♜ ♟ ♟ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♕ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: c7c5
+Evaluation: 10.200000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ♛ ♚ ♗ ⭘ ⭘
+♜ ♟ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♕ ⭘
+♟ ♗ ♟ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f8c5
+Evaluation: 15.200000000000001
+Move by: White
+Alpha-beta prunes this move: 525
+⭘ ♞ ♝ ♛ ♚ ⭘ ⭘ ⭘
+♜ ♟ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♕ ⭘
+♟ ♗ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d8e7
+Evaluation: 11.3
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ♚ ⭘ ⭘ ⭘
+♜ ♟ ⭘ ♟ ♛ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ♕ ⭘
+♟ ♗ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: g6g8
+Evaluation: 21.3
+Move by: White
+Alpha-beta prunes this move: 527
+⭘ ♞ ♝ ⭘ ♚ ⭘ ♕ ⭘
+♜ ♟ ⭘ ♟ ♛ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♟ ♗ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e7f8
+Evaluation: 12.200000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ♚ ♛ ♕ ⭘
+♜ ♟ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♟ ♗ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: c5f8
+Evaluation: 21.6
+Move by: White
+Alpha-beta prunes this move: 659
+⭘ ♞ ♝ ⭘ ♚ ♗ ♕ ⭘
+♜ ♟ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: b7b6
+Evaluation: 19.900000000000002
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ♚ ♗ ♕ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f8h6
+Evaluation: 24.0
+Move by: White
+Alpha-beta prunes this move: 534
+⭘ ♞ ♝ ⭘ ♚ ⭘ ♕ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e8e7
+Evaluation: 21.2
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ⭘ ⭘ ♕ ⭘
+♜ ⭘ ⭘ ♟ ♚ ♞ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: g8f8
+Evaluation: 24.0
+Move by: White
+Alpha-beta prunes this move: 721
+⭘ ♞ ♝ ⭘ ⭘ ♕ ⭘ ⭘
+♜ ⭘ ⭘ ♟ ♚ ♞ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e7e6
+Evaluation: 21.2
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ⭘ ♕ ⭘ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ♚ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f8e8
+Evaluation: 23.0
+Move by: White
+Alpha-beta prunes this move: 607
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ♚ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e6d6
+Evaluation: 21.2
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♞ ⭘ ⭘
+⭘ ♟ ⭘ ♚ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e8f7
+Evaluation: 24.4
+Move by: White
+Alpha-beta prunes this move: 512
+⭘ ♞ ♝ ⭘ ⭘ ⭘ ⭘ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♕ ⭘ ⭘
+⭘ ♟ ⭘ ♚ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d6e5
+Evaluation: 23.0
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ⭘ ⭘ ⭘ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♕ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ♚ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ♙ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d2d3
+Evaluation: 24.900000000000002
+Move by: White
+Alpha-beta prunes this move: 482
+⭘ ♞ ♝ ⭘ ⭘ ⭘ ⭘ ⭘
+♜ ⭘ ⭘ ♟ ⭘ ♕ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ♚ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ⭘ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: a7c7
+Evaluation: 22.700000000000003
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♜ ♟ ⭘ ♕ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ♚ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ⭘ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f7e8
+Evaluation: 25.599999999999998
+Move by: White
+Alpha-beta prunes this move: 547
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ♜ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ♚ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ⭘ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e5d4
+Evaluation: 23.900000000000002
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ♜ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ♙ ⭘ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: c2c3
+Evaluation: 26.4
+Move by: White
+Alpha-beta prunes this move: 534
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ♜ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ♙ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: c7c3
+Evaluation: 23.900000000000002
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ♜ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ♘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: b1c3
+Evaluation: 28.0
+Move by: White
+Alpha-beta prunes this move: 553
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ♘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d7d5
+Evaluation: 27.1
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♝ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ♘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e8c8
+Evaluation: 32.199999999999996
+Move by: White
+Alpha-beta prunes this move: 493
+⭘ ♞ ♕ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ♟ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♙ ⭘ ⭘ ⭘
+⭘ ♙ ♘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d5e4
+Evaluation: 30.3
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♕ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♟ ⭘ ⭘ ⭘
+⭘ ♙ ♘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: c3e4
+Evaluation: 33.800000000000004
+Move by: White
+Alpha-beta prunes this move: 234
+⭘ ♞ ♕ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♚ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d4d5
+Evaluation: 30.5
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♞ ♕ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ♚ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: c8b8
+Evaluation: 34.800000000000004
+Move by: White
+Alpha-beta prunes this move: 203
+⭘ ♕ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+♟ ♗ ⭘ ♚ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: a5a4
+Evaluation: 33.800000000000004
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♕ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+⭘ ♗ ⭘ ♚ ⭘ ⭘ ⭘ ⭘
+♟ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: b5a4
+Evaluation: 35.900000000000006
+Move by: White
+Alpha-beta prunes this move: 137
+⭘ ♕ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ♟ ⭘ ♗
+⭘ ⭘ ⭘ ♚ ⭘ ⭘ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f6f5
+Evaluation: 34.800000000000004
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ♕ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ♚ ⭘ ♟ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: b8b7
+Evaluation: 35.900000000000006
+Move by: White
+Alpha-beta prunes this move: 97
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♕ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ♚ ⭘ ♟ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d5e6
+Evaluation: 34.900000000000006
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♕ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♟ ⭘ ⭘ ♚ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: b7b6
+Evaluation: 36.2
+Move by: White
+Alpha-beta prunes this move: 98
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ♕ ⭘ ⭘ ♚ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e6f7
+Evaluation: 36.00000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘ ⭘
+⭘ ♕ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: b6f6
+Evaluation: 37.300000000000004
+Move by: White
+Alpha-beta prunes this move: 110
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f7g8
+Evaluation: 36.300000000000004
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♟ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f6f5
+Evaluation: 37.50000000000001
+Move by: White
+Alpha-beta prunes this move: 52
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: g8h8
+Evaluation: 37.300000000000004
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♗ ⭘ ⭘ ⭘ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ♙ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: d3d4
+Evaluation: 37.60000000000001
+Move by: White
+Alpha-beta prunes this move: 5
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♗ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h8g8
+Evaluation: 37.50000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+♗ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: a4c6
+Evaluation: 37.80000000000001
+Move by: White
+Alpha-beta prunes this move: 9
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: g8h8
+Evaluation: 37.50000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: f5e5
+Evaluation: 37.80000000000001
+Move by: White
+Alpha-beta prunes this move: 8
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h8h7
+Evaluation: 37.60000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ♗
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h6g7
+Evaluation: 37.90000000000001
+Move by: White
+Alpha-beta prunes this move: 50
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: h7g6
+Evaluation: 37.60000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ♔ ⭘ ♘ ♖
+
+Move played: e1f1
+Evaluation: 37.90000000000001
+Move by: White
+Alpha-beta prunes this move: 51
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: g6f7
+Evaluation: 37.60000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♚ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+⭘ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+♙ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: a2a3
+Evaluation: 37.90000000000001
+Move by: White
+Alpha-beta prunes this move: 57
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♚ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: f7g6
+Evaluation: 37.60000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+♖ ⭘ ⭘ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: a1d1
+Evaluation: 37.90000000000001
+Move by: White
+Alpha-beta prunes this move: 50
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ⭘ ♖ ⭘ ♔ ♘ ♖
+
+Move played: g6f7
+Evaluation: 37.60000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♚ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ⭘ ♖ ⭘ ♔ ♘ ♖
+
+Move played: d1c1
+Evaluation: 37.90000000000001
+Move by: White
+Alpha-beta prunes this move: 58
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♚ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ♖ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: f7g8
+Evaluation: 37.60000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ♗ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ♖ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: c6d5
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 41
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ♖ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: g8h7
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ♖ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: c1c8
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 9
+⭘ ⭘ ♖ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: h7g6
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ♖ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ♔ ♘ ♖
+
+Move played: f1e2
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 15
+⭘ ⭘ ♖ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ♙ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: g6h7
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ♖ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ♙ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: g7f8
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 6
+⭘ ⭘ ♖ ⭘ ⭘ ♗ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ♙ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: h7g6
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ♖ ⭘ ⭘ ♗ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ⭘ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ♙ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: f2f4
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 10
+⭘ ⭘ ♖ ⭘ ⭘ ♗ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: g6h7
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ♖ ⭘ ⭘ ♗ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: c8a8
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 14
+♖ ⭘ ⭘ ⭘ ⭘ ♗ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: h7g6
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+♖ ⭘ ⭘ ⭘ ⭘ ♗ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: f8g7
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 8
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: g6h7
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ♔ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♘ ♖
+
+Move played: e2d1
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 5
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ♔ ⭘ ⭘ ♘ ♖
+
+Move played: h7g6
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ♔ ⭘ ⭘ ♘ ♖
+
+Move played: a8a6
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 11
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ⭘
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ♚ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ♔ ⭘ ⭘ ♘ ♖
+
+Move played: g6h7
+Evaluation: 37.90000000000001
+Move by: Black
+Alpha-beta prunes this move: 0
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙
+⭘ ⭘ ⭘ ♔ ⭘ ⭘ ♘ ♖
+
+Move played: d1c1
+Evaluation: 38.000000000000014
+Move by: White
+Alpha-beta prunes this move: 3
+
+Game over!
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♗ ♚
+♖ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♗ ♕ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ♙ ♘ ♙ ⭘ ⭘
+♙ ♙ ⭘ ⭘ ⭘ ⭘ ⭘ ⭘
+⭘ ⭘ ⭘ ⭘ ⭘ ⭘ ♙ ♙
+⭘ ⭘ ♔ ⭘ ⭘ ⭘ ♘ ♖
